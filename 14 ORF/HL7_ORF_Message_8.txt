@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|ORF|LAB|202501041030||ORF^F03|43A46C78|P|2.3|
+PID|1||C04C8925||Richard Fisher||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for ORF
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|DSR|LAB|202501041030||DSR^D04|10751948|P|2.3|
+PID|1||8AA154AD||Nicholas Wright||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for DSR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

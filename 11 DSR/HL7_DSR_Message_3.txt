@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|DSR|LAB|202501041030||DSR^D03|4D27C6EF|P|2.3|
+PID|1||4425D020||Debra Perry||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for DSR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

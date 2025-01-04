@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|ORF|LAB|202501041030||ORF^F04|9F408E77|P|2.3|
+PID|1||5EA4B09C||Michael Greene||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for ORF
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

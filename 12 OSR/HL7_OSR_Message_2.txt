@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|OSR|LAB|202501041030||OSR^O02|92D03D60|P|2.3|
+PID|1||2C4AE1AA||Brett Nichols||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for OSR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

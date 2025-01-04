@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|ADR|LAB|202501041030||ADR^A05|788057B0|P|2.3|
+PID|1||5035B716||Barbara Romero||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for ADR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

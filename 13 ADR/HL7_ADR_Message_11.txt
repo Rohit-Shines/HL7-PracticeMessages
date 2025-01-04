@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|ADR|LAB|202501041030||ADR^A01|257F42C8|P|2.3|
+PID|1||78E9570C||Melinda Ware||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for ADR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||
