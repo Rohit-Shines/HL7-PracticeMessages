@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|MDM|LAB|202501041030||MDM^T04|8D23A057|P|2.3|
+PID|1||87556BD4||Kevin Valenzuela||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for MDM
+DG1|1|ICD10|A01.1|Sample Diagnosis|||
