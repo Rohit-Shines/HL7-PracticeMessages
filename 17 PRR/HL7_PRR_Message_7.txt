@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|PRR|LAB|202501041030||PRR^P02|D6BFFD3C|P|2.3|
+PID|1||A4A97C74||Jeremy Rocha||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for PRR
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

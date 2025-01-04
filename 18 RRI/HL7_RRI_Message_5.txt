@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|RRI|LAB|202501041030||RRI^I05|70F2F1DC|P|2.3|
+PID|1||8BAB1CE2||Alexandra Johnson||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for RRI
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

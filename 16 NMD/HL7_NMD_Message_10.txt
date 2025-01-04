@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|NMD|LAB|202501041030||NMD^M05|8BAE994F|P|2.3|
+PID|1||31E30DE3||David Levy||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for NMD
+DG1|1|ICD10|A01.1|Sample Diagnosis|||
