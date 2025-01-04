@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|QRY|LAB|202501041030||QRY^Q01|4B159D00|P|2.3|
+PID|1||62B10A30||Stephen Ellison||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for QRY
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

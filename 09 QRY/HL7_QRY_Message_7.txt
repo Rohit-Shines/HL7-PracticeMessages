@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|QRY|LAB|202501041030||QRY^Q02|D65E963B|P|2.3|
+PID|1||B6A55DE1||Danny Lester||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for QRY
+DG1|1|ICD10|A01.1|Sample Diagnosis|||

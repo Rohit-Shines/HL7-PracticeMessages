@@ -1,0 +1,4 @@
+MSH|^~\&|SYSTEM|HOSPITAL|ACK|LAB|202501041030||ACK^A05|538C52D9|P|2.3|
+PID|1||5753A8FB||Austin Gallegos||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+NTE|1|L|Additional note for ACK
+DG1|1|ICD10|A01.1|Sample Diagnosis|||
