@@ -1,0 +1,3 @@
+MSH|^~\&|SYSTEM|HOSPITAL|BPR|LAB|202501041030||BPR^P08|176ABC3A|P|2.3|
+PID|1||4455915A||Gail Friedman||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+FT1|1|Cash^Payment|||500.00|USD|||Transaction Complete

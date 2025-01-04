@@ -1,0 +1,3 @@
+MSH|^~\&|SYSTEM|HOSPITAL|BPS|LAB|202501041030||BPS^P03|F67C848C|P|2.3|
+PID|1||6FA43D51||Christopher Simmons||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+FT1|1|Cash^Payment|||500.00|USD|||Transaction Complete

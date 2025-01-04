@@ -1,0 +1,3 @@
+MSH|^~\&|SYSTEM|HOSPITAL|BPS|LAB|202501041030||BPS^P02|FA185F62|P|2.3|
+PID|1||E595F91A||Justin Sandoval||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+FT1|1|Cash^Payment|||500.00|USD|||Transaction Complete

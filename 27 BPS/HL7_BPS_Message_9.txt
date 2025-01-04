@@ -1,0 +1,3 @@
+MSH|^~\&|SYSTEM|HOSPITAL|BPS|LAB|202501041030||BPS^P04|F1E011DB|P|2.3|
+PID|1||CD8366AA||Andrew Wright||19810101|M|||202 Unknown Blvd^^City^ST^00000^USA
+FT1|1|Cash^Payment|||500.00|USD|||Transaction Complete
